@@ -4,9 +4,9 @@
   "description": "وبسایت دستیار هوش مصنوعی نارموون",
   "main": "index.js",
   "scripts": {
-    "start": "npx serve -s ."
+    "start": "node index.js"
   },
   "dependencies": {
-    "serve": "^14.2.1"
+    "express": "^4.18.2"
   }
 }
