@@ -1,0 +1,12 @@
+{
+  "name": "narmoon-website",
+  "version": "1.0.0",
+  "description": "وبسایت دستیار هوش مصنوعی نارموون",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
